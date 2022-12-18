@@ -6,11 +6,12 @@
 
 ```
 1 - ¿Qué es React?
+2 - ¿Qué se ve en el curso?
 ```
 
 ---
 
-## :star 1 - ¿ Qué es React/ ReactJS?
+## :star: 1 - ¿ Qué es React/ ReactJS?
 
 - Es una **librería** (**no es un FrameWork**) de **JavaScript** para crear **Intefaces de Usuario (UI)** para aplicaciones Web (como los sitios web).
 
@@ -25,5 +26,27 @@
 - Gran cantidad de herramientas, librerías y soporte
 
 - ¿Quiénes lo usan ? Udemy, Airbnb, Facebook, Twitter, Microsoft, Spotify, Asana, Dropbox, etc.
+
+- ¿ Qué conocimientos previos hay que tener ?
+
+-HTML5
+
+-CSS3
+
+-JavaScript: ES6+ (clases, pemplate string, modules, funciones, objetos)
+
+---
+
+## :star: 2 - ¿Qué se ve en el curso?
+
+- Crear componentes funcionales y entender los hooks.
+
+- Arquitectura y cómo estructurar aplicaciones son React y escribir código que siga las buenas prácticas de React y de JavaScript.
+
+- Temas: state, props, hooks, crear tus propios hooks, redux, propTypes, leer y validar formularios, animaciones, style components, consumir API´s, MERN (MongoDB, Node, Express, React), NextJS, Gastby, GraphQL y mucho más.
+
+- 15 aplicaciones en React para aprender a solucionar problemas
+
+- Mejorar como desarrollador JavaEscript con ES6+
 
 ---
