@@ -9,7 +9,7 @@ console.log(`Hola ${nombre} ${apellido}`); // la muestro por consola
 let saludos ="hola";
 saludoss="Chau"; // podemos reasignarle valor
 
-/**** tipo de valores ****/
+/**** tipo de datos (primitivos) ****/
 let boleana = true; // boolean: true | false
 let numero = 3; // number, poede ser entero a decimal
 let cadena = "Hola, cómo estas?"; // Los string van siempre entre comillas (simples o dobles)
