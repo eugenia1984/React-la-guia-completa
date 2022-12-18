@@ -10,7 +10,7 @@ Curso de React de  Juan de la torre
 
 ---
 
-## :gym: Practica
+##  Practica de JavaScript
 
 - En [**repaso_js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/repaso.js) hay un repaso de JavaScript
 
