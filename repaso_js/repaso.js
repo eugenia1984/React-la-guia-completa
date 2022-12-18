@@ -47,3 +47,13 @@ conosle.log("Nombre: " + firstName + ", apellido: " + lastName):
 // con template string
 console.log(`Nombre: ${firstName}, apellido ${lastName}`);
 
+const contenedorApp = document.querySelector("#App");
+let html = `
+  <ul>
+    <li> Nombre: ${firstName}</li>
+    <li> Apellido: ${lastName}</li>
+  </ul>
+`;
+contenedorApp.innerHTML = html;
+
+
