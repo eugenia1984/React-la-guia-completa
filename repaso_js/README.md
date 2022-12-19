@@ -20,4 +20,7 @@
 
 - En [**promises.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/promises.js) se ve: promesas
 
+
+- En [**promises-ajax.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/promises-ajax.js) se ve: promesas con ajax
+
 ---
