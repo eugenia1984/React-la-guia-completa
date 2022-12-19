@@ -6,6 +6,8 @@
 
 - En [**objects.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/objects.js) se ve: objetos (Object Literal y Object Constructor), acceder a un value con dot notation y con [], funciones y prototypes
 
-- En [**destructuring.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/destructuring.js) se ve: desestructuracion
+- En [**destructuring.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/destructuring.js) se ve: desestructuración de objetos
 
+- En [**enhacement.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/enhacement.js) se ve: enhacement
+- 
 ---
