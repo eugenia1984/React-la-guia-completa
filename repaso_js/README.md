@@ -25,4 +25,6 @@
 
 - En [**clases.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/clases.js) se ve: clases, método constructor y métodos de una clase, instanciar objetos, heredar de una clase padre/madre/superclase.
 
+- En [**modules.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/modules.js) se ve: modulos, para poder importar y exportar codigo.
+
 ---
