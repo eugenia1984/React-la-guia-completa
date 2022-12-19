@@ -12,4 +12,6 @@
 
 - En [**object-functions.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/object-function.js) se ve: funciones en un objeto
 
+- En [**arrays-map-object-key.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/arrays-map-object-key.js) se ve: arrays (arreglos) con map, object.keys
+
 ---
