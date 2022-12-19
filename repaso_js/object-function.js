@@ -1,0 +1,1 @@
+/**** Funciones en un objeto ****/
