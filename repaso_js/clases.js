@@ -10,6 +10,10 @@ export const createTask = (task, priority) => {
   return `The task ${taks} it´s ${priority}`;
 }
 
+export const completedTask => {
+  console.log("task completed");
+}
+
 // Si lo exporto por default
 // solo se puede exportar uno por default
 // si tengo mas de uno deberia exportar un objeto
