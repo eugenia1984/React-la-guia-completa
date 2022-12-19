@@ -24,7 +24,7 @@ const downloadUsers = amount => new Promise( (res, rej) => {
   }
   
   // on error (it´s optional)
-  xhr.oneror = (error) => rej(error);
+  xhr.onerror = (error) => rej(error);
   
   // send
   xhr.send();
@@ -32,8 +32,25 @@ const downloadUsers = amount => new Promise( (res, rej) => {
 
 downloadUsers(20).
   then(
-    members => console.log(members);
+    members => printHTML(members);
     error => consol.error(
       new Error("Hubo un error" + error);
-    ) 
-  );
+    );
+    
+function printHTML(users) {
+  let html = "";
+  
+  users.forEach(user => {
+    html += `
+      <li>
+        Nombre: ${user.name.first} ${user.name.last} 
+        Pais: ${user.nat}
+        <img src="${usuer.picture.medium}" >     
+      </li>  
+    `;   
+  });
+  
+  const contenedorApp = document.querySelector("#app");
+  contenedorApp.innetHTML = html;
+}
+  
