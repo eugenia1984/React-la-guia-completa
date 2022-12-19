@@ -8,6 +8,10 @@ import { nameTask, createTask, completedTask } from "./clases.js";
 // si seria exportado por default
 // import nameTask from "./clases.js";
 
+
+// si importaria la clase Task
+// import Task from "./clases.js";
+
 // utilizo la variable que importe
 console.log(nameTask);
 
