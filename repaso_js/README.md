@@ -21,8 +21,8 @@
 - En [**promises.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/promises.js) se ve: promesas
 
 
-- En [**promises-ajax.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/promises-ajax.js) se ve: promesas con ajax
+- En [**promises-ajax.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/promises-ajax.js) se ve: promesas con ajax, haciendo un pedido a una API y renderizando en el HTML el resultado.
 
-- En [**clases.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/clases.js) se ve: clases
+- En [**clases.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/clases.js) se ve: clases, método constructor y métodos de una clase, instanciar objetos.
 
 ---
