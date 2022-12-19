@@ -23,6 +23,6 @@
 
 - En [**promises-ajax.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/promises-ajax.js) se ve: promesas con ajax, haciendo un pedido a una API y renderizando en el HTML el resultado.
 
-- En [**clases.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/clases.js) se ve: clases, método constructor y métodos de una clase, instanciar objetos.
+- En [**clases.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/clases.js) se ve: clases, método constructor y métodos de una clase, instanciar objetos, heredar de una clase padre/madre/superclase.
 
 ---
