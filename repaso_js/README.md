@@ -16,4 +16,6 @@
 
 - En [**spread-operator.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/spread-operator.js) se ve: spread operator
 
+- En [**filter-find-reduce.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/filter-find-reduce.js) se ve: los métodos filter, find y reduce
+
 ---
