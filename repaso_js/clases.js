@@ -13,6 +13,22 @@ class Task {
   }
 }
 
+// con extends indicamos que extiende/hereda de una clase padre/madre/superclase
+// heredan tanto las properties (propiedades/atributos) como los metodos
+class PendingBuys extends Task {
+  constructor(name, priority, amount) {
+    super();
+    this.amount = amount;
+  } 
+  
+  // override
+  show() {
+  // si en la clase padre tenia console.log() en vez de return
+  // lo podria reutilizar con super.show()
+    return `${ this.name} has a priority of ${this.priority}, and an amount of ${this.amount}`;
+  }
+}
+
 // crear los objetos
 let task1 = new Task("Learn JavaScript", "high");
 let task2 = new Task("Learn Java", "medium");
@@ -21,3 +37,7 @@ let task3 = new Task("Make coffee", "low");
 console.log(task1.show());
 console.log(task2.show());
 console.log(task3.show());
+
+// instancio objetos de la clase PendingBuys
+let compra1 = new PendingBuys("Jabon", "high", 3);
+console.log(compra1.show());
