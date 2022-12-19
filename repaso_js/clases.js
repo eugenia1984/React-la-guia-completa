@@ -1,7 +1,14 @@
 /**** Clases ****/
 
-// para exportarlo
+/******* exportar variables, funciones y modulos ****/
+
+// para exportar una variable
 export const nameTask = "Walk the dog";
+
+// para exportar una funcion
+export const createTask = (task, priority) => {
+  return `The task ${taks} it´s ${priority}`;
+}
 
 // Si lo exporto por default
 // solo se puede exportar uno por default
@@ -9,7 +16,8 @@ export const nameTask = "Walk the dog";
 //  const nameTask = "Walk the dog";
 // export default nameTask;
 
-// POO 
+/****** POO  *******/ 
+
 class Task {
   // el constructor es lo primero que se ejecuta al crear una instancia de un objeto
   constructor(name, priority) {
