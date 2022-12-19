@@ -23,4 +23,6 @@
 
 - En [**promises-ajax.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/promises-ajax.js) se ve: promesas con ajax
 
+- En [**clases.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/clases.js) se ve: clases
+
 ---
