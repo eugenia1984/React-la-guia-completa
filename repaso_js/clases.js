@@ -20,6 +20,9 @@ export const completedTask => {
 //  const nameTask = "Walk the dog";
 // export default nameTask;
 
+// para exportar una clase
+// export default class Task {}
+
 /****** POO  *******/ 
 
 class Task {
