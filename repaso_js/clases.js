@@ -1,4 +1,14 @@
 /**** Clases ****/
+
+// para exportarlo
+export const nameTask = "Walk the dog";
+
+// Si lo exporto por default
+// solo se puede exportar uno por default
+// si tengo mas de uno deberia exportar un objeto
+//  const nameTask = "Walk the dog";
+// export default nameTask;
+
 // POO 
 class Task {
   // el constructor es lo primero que se ejecuta al crear una instancia de un objeto
