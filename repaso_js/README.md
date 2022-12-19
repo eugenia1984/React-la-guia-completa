@@ -8,6 +8,8 @@
 
 - En [**destructuring.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/destructuring.js) se ve: desestructuración de objetos
 
-- En [**enhacement.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/enhacement.js) se ve: enhacement
-- 
+- En [**enhacement.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/enhacement.js) se ve: Object Literal Enhacement
+
+- En [**object-functions.js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js/object-function.js) se ve: funciones en un objeto
+
 ---
