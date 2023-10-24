@@ -15,3 +15,7 @@ Curso de React de  Juan de la torre
 - En [**repaso_js**](https://github.com/eugenia1984/React-la-guia-completa/blob/main/repaso_js) hay un repaso de JavaScript
 
 ---
+
+Seguime en:  [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
+
+---
